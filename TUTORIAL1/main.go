@@ -29,6 +29,7 @@ func main() {
 	} else if vartext0 == "subtraction" {
 		operationsubtraction := int1 - int2
 		// fmt.Println("your answer is", operationsubtraction) hi!
+		// Im joining yeay!
 		printanswer(operationsubtraction)
 	} else if vartext0 == "multiplication" {
 		operationmultiply := int1 * int2
